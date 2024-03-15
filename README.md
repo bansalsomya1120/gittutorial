@@ -7,4 +7,5 @@ issues caused
 hello again!
 
 
+yellow on friday is mandatory.
 yellow from local.
